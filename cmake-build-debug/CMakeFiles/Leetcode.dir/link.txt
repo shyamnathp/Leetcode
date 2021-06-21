@@ -1,0 +1,1 @@
+/usr/bin/g++-10  -g   CMakeFiles/Leetcode.dir/src/easy/symmetric_tree.cpp.o  -o Leetcode 
